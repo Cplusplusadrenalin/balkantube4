@@ -1,0 +1,1 @@
+var atompreloader=document.getElementById('nsloader');function atomloading(){setTimeout(atomloading,3000);atompreloader.style.display='none';}
